@@ -14,6 +14,14 @@ This repository serves as my public notebook, progress tracker, and portfolio fo
 - Eventually contribute to open-source security projects and land a role in the field
 
 ## 🗺️ Roadmap (2025–2026)
+| Phase | Topics                              | Main Resources                  | Target     | Status    |
+|-------|-------------------------------------|---------------------------------|------------|-----------|
+| 1     | IT Basics, Hardware, OS             | Professor Messer, freeCodeCamp  | Jan 2026   | ☐         |
+| 2     | Networking (OSI, TCP/IP, Subnetting)| NetworkChuck, Practical Networking | Feb 2026 | ☐         |
+| 3     | Linux Essentials & Bash             | Linux Journey, OverTheWire Bandit | Mar 2026 | ☐         |
+| 4     | Core Security Concepts              | TCM Security, TryHackMe         | May 2026   | ☐         |
+| 5     | CompTIA Security+ Prep              | Professor Messer, Jason Dion    | Jul 2026   | ☐         |
+| 6     | Offensive Security Intro            | HackTheBox, TryHackMe Pentesting| Ongoing    | ☐         |
 
 | Phase | Topics | Resources | Target Completion | Status |
 |-------|--------|-----------|------------------|--------|
@@ -33,11 +41,18 @@ This repository serves as my public notebook, progress tracker, and portfolio fo
 
 ## 📅 Progress Log
 - **December 2025**: Repository created. Fuse Productivity System adopted. Planning phase complete. Laptop acquisition in progress. First commits incoming!
+- ## 📅 Progress Log
+- **December 25, 2025**: Repository launched! README drafted. FPS officially adopted. Ready to fuse. 🚀
 
 ## 💡 Fuse Productivity System (FPS)
 My custom framework blending focused deep work, consistent daily habits, and public accountability:
 - **Daily Fuse**: 2–4 hours of deliberate practice
 - **Weekly Review**: Reflect and commit progress here
 - **Public Accountability**: Every milestone shared publicly
-
+## 📂 Repository Structure
+- `/notes/` → Summaries and key concepts
+- `/labs/` → Write-ups from TryHackMe, HackTheBox, etc.
+- `/tools/` → Tools, commands, and scripts I've mastered
+- `/resources/` → Best courses, videos, books, articles
+- `/progress/` → Weekly or monthly updates
 > "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
